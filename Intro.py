@@ -1,0 +1,31 @@
+# THIS IS HOW WE PUT COMMENTS
+# "#" THIS SYMBOL IS USED TO SINGLE LINE COMMENT
+
+"""
+THIS IS USED FOR MULTI LINE COMMENT
+"""
+
+# THIS IS HOW WE PRINT SOMETHING.
+print("HELLO WELCOME TO THE WORLD OF PYTHON")
+
+
+# DATA TYPES
+# INTEGER
+# FLOAT
+# STRING
+# COMPLEX
+
+a = "str"
+print(type(a))
+
+b = 55
+print(type(b))
+ 
+c = 2+5j
+print(type(c))
+
+d = 24564.564
+print(type(d))
+
+#ID FUNCTION
+print(id(b))
